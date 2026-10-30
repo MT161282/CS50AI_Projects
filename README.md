@@ -1,0 +1,2 @@
+# CS50AI_Projects
+Projects and solutions for CS50's Introduction to Artificial Intelligence with Python
